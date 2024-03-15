@@ -1,6 +1,6 @@
 # How to use git
 
-![Logic](#LogicOfGit.png)
+![Logic](LogicOfGit.png)
 
 1. create Repository online and clone into a folder where you want it
 
