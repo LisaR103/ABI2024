@@ -2,7 +2,7 @@
 
 ![Logic](https://github.com/LisaR103/ABI2024/blob/main/LogicOfGit.png)
 
-![Logic2](/assets/images/LogicOfGit.png)
+![Logic2](assets/images/LogicOfGit.png)
 
 
 1. create Repository online and clone into a folder where you want it
