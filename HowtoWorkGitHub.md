@@ -2,6 +2,11 @@
 
 ![Logic](https://github.com/LisaR103/ABI2024/blob/main/LogicOfGit.png)
 
+<<<<<<< HEAD
+=======
+![Logic2](assets/images/LogicOfGit.png)
+
+>>>>>>> c4c11b448b09fdf6bea7d6b6e1844fb515b1e692
 
 1. create Repository online and clone into a folder where you want it
 
