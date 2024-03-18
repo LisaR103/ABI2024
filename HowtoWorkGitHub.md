@@ -1,6 +1,6 @@
 # How to use git
 
-![Logic](#https://github.com/LisaR103/ABI2024/blob/main/LogicOfGit.png)
+![Logic](https://github.com/LisaR103/ABI2024/blob/main/LogicOfGit.png)
 
 1. create Repository online and clone into a folder where you want it
 
